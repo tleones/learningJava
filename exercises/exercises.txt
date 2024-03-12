@@ -1,0 +1,35 @@
+1. Qual é o grande benefício de uma Máquina Virtual Java (JVM)?
+
+Executar o código independente do sistema operacional.
+
+2. A linguagem Java nasceu com algumas características que são mantidas até hoje.
+
+Parecido com C++.
+Muitas bibliotecas.
+Multiplataforma.
+
+3. Dependendo da linguagem de programação existem vários tipos de sistemas que você pode desenvolver, como por exemplo:
+
+a) Sistemas para Web (Web Sites ou Web Apps)
+
+b) Sistemas puramente "Server-Side"
+
+c) Aplicativos para Android
+
+d) Applets que rodam no navegador
+
+Quais tipos de sistemas você pode criar com a linguagem Java?
+
+Todos.
+
+4. Qual é a diferença entre o executável do Windows (exe) e o executável do mundo Java (Bytecode)?
+
+Os executáveis do mundo Java são portáveis, os do mundo Windows não.
+
+Os executáveis do mundo Windows podem ser executados diretamente no sistema operacional, os do mundo Java precisam da máquina virtual.
+
+5. Todas as afirmações abaixo sobre o Bytecode são verdadeiras, exceto:
+
+O Bytecode é o código fonte.
+
+6. 
